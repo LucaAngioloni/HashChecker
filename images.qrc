@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>DropArrowImage.png</file>
+        <file>OkImage.png</file>
+        <file>WrongImage.png</file>
+    </qresource>
+</RCC>
